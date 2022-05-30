@@ -24,3 +24,6 @@
 
 - Output 
     Mean value in each ROI with respect to each frame.
+
+The file can also be downloaded from MATLAB File exchange 
+[![View Trace-Intensity-across-the-frames-at-multiple-Locations on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/112430-trace-intensity-across-the-frames-at-multiple-locations)
