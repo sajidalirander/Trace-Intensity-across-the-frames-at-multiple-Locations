@@ -19,7 +19,8 @@
 
 
 # How to Use
-Input
-   -- Give the complete path of the video file at line 46
-Output 
-   -- Mean value in each ROI with respect to each frame.
+- Input
+    Give the complete path of the video file at line 46
+
+- Output 
+    Mean value in each ROI with respect to each frame.
