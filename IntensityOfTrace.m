@@ -43,7 +43,7 @@ numROI = str2double(inputdlg('Enter the Number of ROI = ', dlgtitle, dims));
 
 %% Load the video and read it frame by frame
 % Provide the full file path to videoFileName
-videoFileName = 'E:\DrVadhin\Recent_May27,2022_E_FRET\Merged-aligned-001-label.avi'; % change this
+videoFileName = '...\Recent_May27,2022_E_FRET\Merged-aligned-001-label.avi'; % change this
 
 % Read the movie file from the given path
 video = VideoReader(videoFileName);
